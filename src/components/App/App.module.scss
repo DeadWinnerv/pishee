@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,700;1,400;1,700');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,400;1,600&display=swap');
+
+.App {
+	max-width: 80vh;
+	min-height: 80vh;
+	background-color: #FAECA6;
+	padding: 30px;
+	margin: 32px;
+	border-radius: 12px;
+	.header {
+		display: flex;
+		flex-direction: row;
+		justify-content: space-between;
+		gap: 18px;
+		padding: 6px;
+			.NoteForm {
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+			justify-content: center;
+				textarea:focus,
+				textarea:active {
+					outline: none;
+				}
+				textarea {
+					min-width: 400px;
+					min-height: 50px;
+					max-height: 122px;
+					resize: vertical;
+					border:none;
+					border-radius: 12px;
+					padding: 6px;
+					line-height: 22px;
+					overflow: hidden;
+					font-style: italic;
+				}
+			
+				span {
+					font-family: 'Montserrat', sans-serif;
+					font-size: 10px;
+				}
+				&__menu {
+					min-width: 100%;
+					display: flex;
+					gap: 6px;
+					flex-direction: row;
+					justify-content: space-around;
+					input {
+						max-width: 16px;
+					}
+					.toggle_cursive {
+						font-style: italic;
+					}
+					.toggle_bold {
+						font-weight: 700;
+					}
+					select {
+						border: none;
+						border-radius: 4px;
+						text-decoration: underline;
+					}
+					select:focus,
+					select:active {
+						outline: none;
+				}
+					&__save_note_button {
+						background-color: #fff;
+						border: none;
+						border-radius: 4px;
+						transition: 0.5s;
+					}
+					&__save_note_button:hover {
+						box-shadow: 4px 2px rgba(0,0,0,0.2);
+						transition: 0.5s;
+				}
+				&__span{
+					font-size: 28px;
+				}
+				&__font_size_styler {
+					display: flex;
+					gap: 2px;
+					button {
+						background-color: #fff;
+						border: none;
+						border-radius: 4px;
+						max-height: 22px;
+						max-width: 22px;
+					}
+					span {
+						font-size: 14px;
+					}
+				}
+			}
+		}
+	}
+}

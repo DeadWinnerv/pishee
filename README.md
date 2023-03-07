@@ -1,70 +1,37 @@
-# Getting Started with Create React App
+Рецепт вареников с вишней
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ИНГРЕДИЕНТЫ
+Мука пшеничная
+350 г
+Вода
+200 мл
+Масло оливковое
+1-2 ст. л.
+Соль
+½ ч. л. (по вкусу)
+Вишня замороженная без косточек
+350-400 г
+Сахар-песок
+4-5 ст. л.
+Банан
+2 шт. (среднего размера)
+Сливки 33%
+220 г
+Сахарная пудра
+30 г
+Ванилин
+на кончике ножа
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Пшеничную муку смешать с солью и хорошо просеять. Выложить сухую смесь в чашу миксера.
+В центре массы из муки сделать углубление, аккуратно влить в углубление теплую воду, а затем добавить оливковое масло.
+Используя насадку-крюк замешивать тесто в кухонной машине. Сначала на небольшой скорости (1 или 2) в течение 4-5 минут, а затем можно увеличить скорость и замешивать до состояния тугого однородного теста.
+Готовое тесто обернуть пищевой пленкой и оставить на полчаса.
+Раскатать тесто и вырезать порционные кружки или квадратики (в зависимости от предпочитаемой формы будущих вареников).
+На каждый круг или квадрат выложить начинку: 1-2 замороженных ягоды и небольшое количество сахара.
+Завернуть начинку, придав вареникам форму. Надежно и плотно защипнуть края изделий.
+Готовые вареники отваривать в слегка подсоленной воде до готовности (5-10 минут в зависимости от размера изделий).
+В чашу миксера выложить жирные сливки. Добавить сахарную пудру и ванилин. Взбивать с помощью насадки-венчика до устойчивых пиков.
+Бананы очистить от кожуры, нарезать средними кусками и измельчить с помощью блендера в кухонной машине.
+Измельченный до состояния густой кашицы банан ввести в смесь взбитых сливок. Аккуратно перемешать с помощью насадки для замешивания на минимальной скорости кухонной машины (1).
+Готовые вареники с вишней выложить на сервировочное блюдо. Подавать со сливочно-банановым соусом (соус можно выложить порционно в небольшие креманки либо полить им готовые вареники.
+В качестве украшения также можно использовать молотую корицу, свежие ягоды клубники.
